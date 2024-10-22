@@ -1,0 +1,32 @@
+div{
+    border: 2px solid black;
+}
+.col{
+    background: indianred;
+}
+#left-bar{
+    height: 500px;
+    background-color: purple;
+}
+#center-bar{
+    height: 500px;
+    background-color: brown;
+}
+#right-bar{
+    height: 500px;
+    background-color: purple;
+}
+#header{
+    height: 80px;
+    background-color: beige;
+    text-align: center;
+    font-size: large;
+}
+#line{
+    height: 60px;
+    background-color: pink;
+}
+#footer{
+    height: 80px;
+    background-color: lightblue;
+}

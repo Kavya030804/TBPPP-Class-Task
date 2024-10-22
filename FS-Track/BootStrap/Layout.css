@@ -1,0 +1,45 @@
+.container{
+    border: 4px solid black;
+    height: 700px;
+}
+.header{
+    border: 4px solid pink;
+    height: 100px;
+    width: 1494px;
+    margin: 4px;
+    background-color: aquamarine;
+    text-align: center;
+    align-items: center;
+}
+.left-bar{
+    border: 4px solid green;
+    float: left;
+    height: 500px;
+    width: 402px;
+    margin: 4px;
+    background-color: lightgreen;
+    text-align: center;
+    align-items: center;
+}
+.right-bar{
+    border: 4px solid blue;
+    float: right;
+    width: 1063px;
+    margin: 3px;
+    height: 500px;
+    background-color: lightblue;
+    text-align: center;
+    align-items: center;
+}
+.footer{
+    border: 4px solid red;
+    /* margin: 4px; */
+    height: 55px;
+    margin-top: 520px;
+    margin-left: 2px;
+    margin-right: 2px;
+    background-color: beige;
+    text-align: center;
+    align-items: center;
+
+}
